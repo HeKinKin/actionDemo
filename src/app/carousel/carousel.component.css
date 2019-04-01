@@ -1,0 +1,12 @@
+
+.pc_imgBox{
+  display: block;
+  height: 210px;
+  width: 100%;
+  background-size: cover;
+  background-position:  center;
+  background-repeat: no-repeat;
+}
+.carousel-indicators{
+  background: #ccc;
+}
